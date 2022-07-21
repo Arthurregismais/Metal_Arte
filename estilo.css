@@ -1,0 +1,71 @@
+.frases {
+    font-family: inter;
+    margin-left: 1cm;
+    padding-top: 1cm;
+}
+.frases_Obras {
+    font-family: inter;
+    text-align: center;
+    padding-top: 1cm;
+}
+.foto_obra {
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+}
+.field {
+    padding: 10px; 
+    margin-bottom: 15px; 
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-family: inter;
+    font-size: 16px;
+}
+textarea {
+    height: 150px;
+}
+.content {
+    display: flex;
+    justify-content: center;
+}
+.contato {
+    width: 100%;
+    max-width: 500px ;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+}
+.container_meu {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding-top: 5ch;
+  }
+#foto_frente {
+    width: 400px;
+    text-align: center;
+    padding-top: 0px;
+    display: block;
+}
+.icone_firma {
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+    width: 150px;
+    height: 200px;
+}
+.icones_servicos {
+    text-align: center;
+    padding-top: 0px;
+    display: block;
+    margin: 0px auto;
+    width: 150px;
+}
+.card-text, .card-title {
+    font-family: inter;
+}
